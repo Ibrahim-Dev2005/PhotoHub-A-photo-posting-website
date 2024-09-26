@@ -1,0 +1,91 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+a{
+  
+  color:rgb(255, 255, 255) !important;
+}
+
+.login .signin{
+  background-image: url('https://i.natgeofe.com/n/63527567-9a8b-4b08-819d-a6142fb2b350/aurora-kirkjufell-iceland.jpg?w=1280&h=853');
+  background-size: cover;
+  height:100vh;
+  display: flex;
+}
+
+.signupcard{
+  background-image: url('https://i.natgeofe.com/n/63527567-9a8b-4b08-819d-a6142fb2b350/aurora-kirkjufell-iceland.jpg?w=1280&h=853');
+  background-size: cover;
+  height:100vh;
+  display: flex;
+}
+
+.logincard{
+  margin: auto;
+}
+
+.brand-logo{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+h2{
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: white;
+    
+}
+.authcard{
+  max-width: 450px;
+  text-align: center;
+  padding: 50px;
+  margin: 50px auto;
+  
+  box-shadow: 0px 0px 5px rgb(255, 255, 255);
+}
+
+.btn{
+  border-radius: 10px;
+  max-width: 200px !important;
+
+} 
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.images{
+  width: 30%;
+  padding: 1px;
+
+}
+
+.home-card{
+
+  max-width: 600px;
+  height: max-content;
+  margin: 26px auto;
+  padding: 10px;
+}
+.cardimg img{
+  width: 100%;
+  height: 100%;
+
+  
+}
+
+#toast-container{
+  left: auto;
+  right: 540px;
+  top:120px;
+  text-align: center;
+}
+
+.info{
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+}
